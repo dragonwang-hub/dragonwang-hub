@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 ![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-- Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
