@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 
 
 ![Dragon.Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragonwang)
+
+
+### Tech Stack
+
+![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-java-brightgreen)
