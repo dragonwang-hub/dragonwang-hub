@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dragonwang-hub/dragonwang-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,13 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub)](https://github.com/anuraghazra/github-readme-stats)
+![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dragon.Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragonwang-hub)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact)
+
+
+![Dragon.Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragonwang)
