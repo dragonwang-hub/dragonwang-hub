@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact&card_width=500&custom_title=Used%20Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact&card_width=450&custom_title=Used%20Language)
 
 
-![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&show_icons=true&count_private=true&card_width=500)
+![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&show_icons=true&count_private=true)
 
 
 ![Dragon.Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragonwang)
