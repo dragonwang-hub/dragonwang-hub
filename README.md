@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-java-brightgreen)
+![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-java-brightgreen?logo=java)
