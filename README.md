@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact)
 
 
-![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub)
+![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&show_icons=true)
 
 
 ![Dragon.Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragonwang)
