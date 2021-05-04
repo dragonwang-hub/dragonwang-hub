@@ -20,7 +20,7 @@
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%234285F4?style=flat-square&logo=google-ads&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=flat-square&logo=clojure&logoColor=ffffff)
 
