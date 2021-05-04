@@ -20,6 +20,7 @@
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%234285F4?style=flat-square&logo=google-ads&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=flat-square&logo=clojure&logoColor=ffffff)
 
@@ -42,3 +43,4 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=%23ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
+
