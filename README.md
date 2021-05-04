@@ -1,15 +1,15 @@
-## Hi there 👋
-### Welcome Dragon Party
+# Hi there 👋
+## Welcome Dragon Party
 ![demo](https://img.shields.io/badge/%F0%9F%91%BB-Happy%20Icon-yellowgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dragonwang-hub.dragonwang-hub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on **Xi'An**
+- 🌱 I’m currently learning **Anything**
+- 👯 I’m looking to collaborate on **Entertainment First**
+- 🤔 I’m looking for help with **tips for improving personal competence**
+- 💬 Ask me about **How do you do?**
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: **Veni Vidi Vici**
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact&card_width=450&custom_title=Used%20Language)
@@ -21,6 +21,7 @@
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=flat-square&logo=clojure&logoColor=ffffff)
 
@@ -29,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
+![GoCD](https://img.shields.io/badge/-GoCD-%23000000?style=flat-square&logo=gocd&logo)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
