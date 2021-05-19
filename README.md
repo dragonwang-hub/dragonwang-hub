@@ -12,7 +12,7 @@
 - 😄 Pronouns: **Veni Vidi Vici**
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact&card_width=450&custom_title=Used%20Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonwang-hub&layout=compact&card_width=450&custom_title=Used%20Language&exclude_repo=dragonwang-hub.github.io)
 
 
 ![Dragon.Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwang-hub&show_icons=true&count_private=true)
